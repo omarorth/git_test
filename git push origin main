@@ -1,0 +1,17 @@
+[33mcommit 8989f0088a3768bfc1c376192a365b24ee2d1b90[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Omar <omarilich@hotmail.com>
+Date:   Sun Jun 15 19:33:56 2025 -0600
+
+    Edit README.md and hello_world.txt
+
+[33mcommit f1d3ea9944bdc1674e9c671cb88000e0f479c225[m
+Author: Omar <omarilich@hotmail.com>
+Date:   Sun Jun 15 19:15:18 2025 -0600
+
+    Add hello_world.txt
+
+[33mcommit c0be21e6933d021cbecaeac060d3001e7c81ec60[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: omarorth <101891235+omarorth@users.noreply.github.com>
+Date:   Sun Jun 15 15:39:49 2025 -0600
+
+    Initial commit
